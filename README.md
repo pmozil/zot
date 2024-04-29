@@ -2,7 +2,7 @@
 
 ## It's speed is comparable to POSIX C regex!
 
-This project uses a nondeterministic FA to create the regex, and then 
+This project uses a deterministic FA to create the regex, and then 
 converts it into a deterministic one.
 
 Here's an example of how to use the regex structure:
